@@ -1,0 +1,24 @@
+
+h1 {
+  color: #36bf1b;
+}
+body {
+  background-color: #ffe600;
+  margin: 0px;
+}
+
+.navbar {
+  background-color: green;
+  color: white;
+  padding: 15px;
+}
+
+  #twoh1 {
+    color: orange;
+}
+
+          
+  #mylink {
+    float: right;
+    color: white;
+  }

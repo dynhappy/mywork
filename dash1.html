@@ -114,7 +114,7 @@
         var city = response.data.city;
         geoData(response.data);
         var wstring = 'https://www.7timer.info/bin/civillight.php?lon=' + lon + '&lat=' + lat + '&unit=metric&output=json';
-        //weatherData(wstring);
+        weatherData(wstring);
         mapIt(lat,lon,city);
         getPhotos(lat,lon);
       })
